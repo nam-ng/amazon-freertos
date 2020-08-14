@@ -1936,5 +1936,6 @@
       <key>SMC_GENERATED_LOC</key>
       <path>${PROJECT_LOC}/application_code/renesas_code/smc_gen</path>
     </linkedresource>
+    <settingfile>vendors/renesas/configuration/setting.xml</settingfile>
   </package>
 </refinfo>
